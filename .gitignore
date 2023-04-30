@@ -1,0 +1,5 @@
+# Project exclude paths
+/dubbo-interface/target/
+/dubbo-pojo/target/
+/dubbo-service/target/
+/dubbo-web/target/
